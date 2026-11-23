@@ -1,17 +1,222 @@
-# 💫 About Me:
-AI Trainee | Agentic AI & LLMs | Python | FastAPI | RAG | LangChain | React.js | Building intelligent AI solutions 🚀
+# Sumanth Mulla | AI Engineer
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lovely sumanth) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_sumanth26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumanth-m-439150342/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@sumanthofficial2626) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumanthofficial2626@gmail.com) 
+**AI Engineer | Agentic AI | LLM Engineering | RAG | Python Developer**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=221FA04454&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=221FA04454&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=221FA04454&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Building intelligent AI systems, production-oriented RAG applications, scalable APIs, and real-world software solutions.
+
+[GitHub](https://github.com/221FA04454) • [LinkedIn](https://www.linkedin.com/in/sumanth-m-439150342/) • [Instagram](https://instagram.com/its_sumanth26) • [Email](mailto:sumanthofficial2626@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=221FA04454&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm Sumanth Mulla, an AI Engineer focused on building intelligent applications using Generative AI, Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI.
+
+Currently working as an **AI Trainee Intern at Clyptus Software Solutions**, developing my expertise in AI engineering, backend development, and intelligent application architecture.
+
+Previously gained 6 months of startup experience at Neuraltrix, where I developed practical exposure to real-world product development and software engineering.
+
+My primary interests include:
+
+- 🧠 Generative AI and Large Language Models
+- 🤖 Agentic AI and Intelligent Automation
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚙️ Python Backend Engineering
+- 🔗 LLM Integration and API Development
+- 🏗️ Scalable AI Application Architecture
+
+I enjoy transforming complex technical challenges into practical, intelligent applications.
+
+**Build intelligent systems. Engineer reliable solutions. Create real-world impact.**
+
+---
+
+## 🧠 AI Engineering Expertise
+
+### 🔍 Retrieval-Augmented Generation (RAG)
+
+- Document ingestion and preprocessing
+- Text extraction and intelligent chunking
+- Embeddings and semantic retrieval
+- Dense and sparse retrieval concepts
+- Hybrid retrieval architecture
+- Context optimization
+- Reranking strategies
+- Evidence-grounded response generation
+- Retrieval quality and evaluation
+
+### 🤖 Agentic AI & LLM Engineering
+
+- LLM-powered application development
+- Agentic AI workflows
+- Prompt engineering
+- Tool calling and function integration
+- Multi-step AI workflows
+- LLM provider integration
+- Intelligent query processing
+- Context management
+
+### ⚙️ Backend & Application Engineering
+
+- Python application development
+- FastAPI and REST API development
+- API integration and validation
+- Database connectivity
+- Authentication and application architecture
+- Backend business logic
+- Docker-based development
+
+### 🎨 Full-Stack Development
+
+- React.js
+- HTML5 and CSS
+- JavaScript
+- Node.js and Express.js
+- Frontend and backend integration
+
+---
+
+## 🧰 Technical Skills
+
+### 💻 Programming Languages
+Python • Java • C • JavaScript • SQL
+
+### 🧠 AI & Machine Learning
+Generative AI • LLMs • RAG • Agentic AI • LangChain • Scikit-learn
+
+### ⚙️ Backend Development
+FastAPI • Django • Node.js • Express.js • REST APIs
+
+### 🎨 Frontend Development
+React.js • HTML5 • JavaScript
+
+### 🗄️ Databases
+MySQL • MongoDB
+
+### 📊 Data Science & Analytics
+NumPy • Pandas • Matplotlib • Plotly
+
+### ☁️ Cloud & Big Data
+AWS • Apache Hadoop
+
+### 🛠️ Development Tools
+Git • GitHub • Docker • Selenium
+
+---
+
+## 🚀 Featured Engineering Work
+
+### 1. Enterprise SAP BRIM RAG Application
+
+Working on an enterprise-oriented Retrieval-Augmented Generation application focused on SAP Billing and Revenue Innovation Management (SAP BRIM).
+
+The application focuses on making domain-specific technical knowledge accessible through intelligent document retrieval and LLM-powered question answering.
+
+**Engineering focus:**
+- Document ingestion and processing
+- SAP-specific knowledge retrieval
+- Hybrid retrieval architecture
+- Semantic and keyword-based search
+- Context optimization and reranking
+- Evidence-grounded answer generation
+- Retrieval quality and response reliability
+- Production-oriented backend architecture
+
+**Tech Stack:** Python • FastAPI • RAG • LLMs • Backend Engineering
+
+*Enterprise project — repository and implementation details are not publicly available.*
+
+---
+
+## 🏗️ AI Application Architecture
+
+My engineering interests include designing AI applications with the following architecture:
+
+```text
+             USER QUERY
+                  |
+                  v
+          QUERY UNDERSTANDING
+                  |
+                  v
+           INTENT ANALYSIS
+                  |
+                  v
+           QUERY ROUTING
+                  |
+          +-------+-------+
+          |               |
+          v               v
+      RAG SYSTEM      LLM SYSTEM
+          |               |
+          v               |
+    DOCUMENT SEARCH       |
+          |               |
+          v               |
+    HYBRID RETRIEVAL      |
+          |               |
+          v               |
+       RERANKING           |
+          |               |
+          v               |
+     CONTEXT BUILDING      |
+          |               |
+          +-------+-------+
+                  |
+                  v
+           LLM GENERATION
+                  |
+                  v
+         RESPONSE VALIDATION
+                  |
+                  v
+            FINAL ANSWER
+```
+
+*Conceptual workflow illustrating my areas of AI engineering interest.*
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=221FA04454&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=221FA04454&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=221FA04454&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Currently Learning & Exploring
+
+- Advanced Retrieval-Augmented Generation
+- Agentic AI and Multi-Agent Systems
+- Advanced LLM Application Development
+- Production-Ready AI Architecture
+- Scalable Backend Engineering
+- System Design and Distributed Systems
+- AI Application Deployment and Optimization
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting and collaborating with developers, AI engineers, and teams working on:
+
+- Generative AI Applications
+- Agentic AI Systems
+- Enterprise RAG Solutions
+- LLM Engineering
+- Python Backend Development
+- Intelligent Automation
+- Real-World AI Products
+
+**Let's build something intelligent together!**
+
+[LinkedIn](https://www.linkedin.com/in/sumanth-m-439150342/) • [GitHub](https://github.com/221FA04454) • [Email](mailto:sumanthofficial2626@gmail.com)
+
+---
+
+<p align="center">
+  <b>Engineering Intelligence. Building Possibilities. 🚀</b>
+</p>
