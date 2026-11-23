@@ -1,201 +1,288 @@
-# Sumanth Mulla | AI Engineer
+<!--
+  Sumanth Mulla | AI Engineer
+  GitHub Profile README
+-->
 
-**AI Engineer | Agentic AI | LLM Engineering | RAG | Python Developer**
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Sumanth Mulla - AI Engineer"/>
+</p>
 
-Building intelligent AI systems, production-oriented RAG applications, scalable APIs, and real-world software solutions.
+<h1 align="center">Hi, I'm Sumanth Mulla 👋</h1>
 
-[GitHub](https://github.com/221FA04454) • [LinkedIn](https://www.linkedin.com/in/sumanth-m-439150342/) • [Instagram](https://instagram.com/its_sumanth26) • [Email](mailto:sumanthofficial2626@gmail.com)
+<h3 align="center">
+  AI Engineer | Agentic AI | RAG | LLM Engineering | Python Developer
+</h3>
+
+<p align="center">
+  Building intelligent AI systems, scalable APIs, and real-world applications.
+</p>
+
+<p align="center">
+  <a href="https://github.com/221FA04454">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumanth-m-439150342/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sumanthofficial2626@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=221FA04454&label=PROFILE+VIEWS&color=6C63FF&style=flat-square"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm Sumanth Mulla, an AI Engineer focused on building intelligent applications using Generative AI, Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI.
+I'm **Sumanth Mulla**, an AI Engineer passionate about building intelligent applications using Generative AI, Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI.
 
-Currently working as an **AI Trainee Intern at Clyptus Software Solutions**, developing my expertise in AI engineering, backend development, and intelligent application architecture.
+Currently working as an **AI Trainee Intern at Clyptus Software Solutions**, developing practical expertise in AI engineering, backend development, and intelligent application architecture.
 
-Previously gained 6 months of startup experience at Neuraltrix, where I developed practical exposure to real-world product development and software engineering.
+Previously gained 6 months of startup experience at **Neuraltrix**, working on real-world product development and software engineering.
 
 My primary interests include:
 
 - 🧠 Generative AI and Large Language Models
-- 🤖 Agentic AI and Intelligent Automation
+- 🤖 Agentic AI and intelligent automation
 - 🔍 Retrieval-Augmented Generation (RAG)
-- ⚙️ Python Backend Engineering
-- 🔗 LLM Integration and API Development
-- 🏗️ Scalable AI Application Architecture
+- ⚙️ Python and backend engineering
+- 🔗 LLM integration and API development
+- 🏗️ Production-oriented AI architectures
 
 I enjoy transforming complex technical challenges into practical, intelligent applications.
 
-**Build intelligent systems. Engineer reliable solutions. Create real-world impact.**
+> Code with purpose. Build with intelligence. Ship with confidence. 🚀
 
 ---
 
 ## 🧠 AI Engineering Expertise
 
-### 🔍 Retrieval-Augmented Generation (RAG)
+### 🔍 Retrieval-Augmented Generation
 
 - Document ingestion and preprocessing
-- Text extraction and intelligent chunking
-- Embeddings and semantic retrieval
-- Dense and sparse retrieval concepts
-- Hybrid retrieval architecture
+- Intelligent text extraction and chunking
+- Dense vector retrieval
+- Sparse retrieval using BM25
+- Hybrid search architecture
+- Reciprocal Rank Fusion (RRF)
+- Cross-encoder reranking concepts
+- Metadata filtering
 - Context optimization
-- Reranking strategies
-- Evidence-grounded response generation
-- Retrieval quality and evaluation
+- Evidence-grounded generation
+- Retrieval evaluation and optimization
 
 ### 🤖 Agentic AI & LLM Engineering
 
-- LLM-powered application development
+- LLM-powered applications
 - Agentic AI workflows
 - Prompt engineering
 - Tool calling and function integration
-- Multi-step AI workflows
+- Multi-step reasoning workflows
 - LLM provider integration
-- Intelligent query processing
+- Query understanding and routing
 - Context management
+- Intelligent automation
 
-### ⚙️ Backend & Application Engineering
+### ⚙️ Backend & System Engineering
 
 - Python application development
-- FastAPI and REST API development
-- API integration and validation
+- FastAPI and REST API architecture
+- Asynchronous application development
+- API validation and integration
 - Database connectivity
-- Authentication and application architecture
-- Backend business logic
+- Authentication and authorization
+- Error handling and logging
 - Docker-based development
 
-### 🎨 Full-Stack Development
+### 🎨 Full-Stack Engineering
 
-- React.js
-- HTML5 and CSS
-- JavaScript
-- Node.js and Express.js
-- Frontend and backend integration
+- React.js application development
+- JavaScript and HTML
+- Frontend-backend integration
+- API-driven application development
+
+---
+
+## 🏗️ Featured Engineering Projects
+
+### 1. SAP BRIM — Enterprise RAG Knowledge Assistant
+
+**Domain-focused AI knowledge assistant for SAP Billing and Revenue Innovation Management.**
+
+An enterprise-oriented RAG application designed to retrieve technical knowledge from SAP BRIM documentation and support domain-specific question answering.
+
+**Architecture and engineering focus:**
+
+- Intelligent document ingestion
+- Document preprocessing and contextual chunking
+- Dense and BM25-based hybrid retrieval
+- Exact identifier-based retrieval
+- Reciprocal Rank Fusion
+- Reranking and context optimization
+- Multi-document question answering
+- Evidence validation and citation verification
+- Corrective retrieval strategies
+- Versioned ingestion and reliable publishing
+- Production-oriented API architecture
+
+**Tech Stack:**
+
+`Python` `FastAPI` `RAG` `LLMs` `PostgreSQL` `Docker`
+
+*Professional project. Repository access and implementation details may be restricted.*
+
+---
+
+### 2. Independent AI & Software Projects
+
+I also work on independent AI and software development projects, exploring practical applications of LLMs, automation, backend engineering, and modern application development.
+
+**Areas of exploration:**
+
+- LLM-powered applications
+- Intelligent document processing
+- RAG-based knowledge assistants
+- AI-powered automation
+- Python backend applications
+- Full-stack application development
+
+*Public project repositories and individual project descriptions will be added here as they are published.*
+
+---
+
+## 🔬 AI Engineering Workflow
+
+```text
+                 USER QUERY
+                     |
+                     v
+             INPUT VALIDATION
+                     |
+                     v
+              INTENT ANALYSIS
+                     |
+                     v
+               QUERY ROUTING
+                     |
+            +--------+--------+
+            |                 |
+            v                 v
+        RAG PIPELINE      LLM PIPELINE
+            |
+            v
+       DOCUMENT SEARCH
+            |
+            v
+      HYBRID RETRIEVAL
+            |
+            v
+         RERANKING
+            |
+            v
+       CONTEXT PACKING
+            |
+            +--------+
+                     |
+                     v
+              LLM GENERATION
+                     |
+                     v
+           RESPONSE VALIDATION
+                     |
+                     v
+               FINAL ANSWER
+```
+
+<p align="center">
+  <i>Conceptual architecture of an intelligent RAG and LLM-powered application.</i>
+</p>
 
 ---
 
 ## 🧰 Technical Skills
 
 ### 💻 Programming Languages
-Python • Java • C • JavaScript • SQL
 
-### 🧠 AI & Machine Learning
-Generative AI • LLMs • RAG • Agentic AI • LangChain • Scikit-learn
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark"/>
+</p>
+
+### 🧠 AI, Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-7B2FF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-0B84F3?style=for-the-badge"/>
+</p>
 
 ### ⚙️ Backend Development
-FastAPI • Django • Node.js • Express.js • REST APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express&theme=dark"/>
+</p>
 
 ### 🎨 Frontend Development
-React.js • HTML5 • JavaScript
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,js&theme=dark"/>
+</p>
 
 ### 🗄️ Databases
-MySQL • MongoDB
 
-### 📊 Data Science & Analytics
-NumPy • Pandas • Matplotlib • Plotly
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+</p>
 
-### ☁️ Cloud & Big Data
-AWS • Apache Hadoop
+### ☁️ Cloud & Development Tools
 
-### 🛠️ Development Tools
-Git • GitHub • Docker • Selenium
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark"/>
+</p>
 
----
+### 📊 Data Analysis & Visualization
 
-## 🚀 Featured Engineering Work
-
-### 1. Enterprise SAP BRIM RAG Application
-
-Working on an enterprise-oriented Retrieval-Augmented Generation application focused on SAP Billing and Revenue Innovation Management (SAP BRIM).
-
-The application focuses on making domain-specific technical knowledge accessible through intelligent document retrieval and LLM-powered question answering.
-
-**Engineering focus:**
-- Document ingestion and processing
-- SAP-specific knowledge retrieval
-- Hybrid retrieval architecture
-- Semantic and keyword-based search
-- Context optimization and reranking
-- Evidence-grounded answer generation
-- Retrieval quality and response reliability
-- Production-oriented backend architecture
-
-**Tech Stack:** Python • FastAPI • RAG • LLMs • Backend Engineering
-
-*Enterprise project — repository and implementation details are not publicly available.*
-
----
-
-## 🏗️ AI Application Architecture
-
-My engineering interests include designing AI applications with the following architecture:
-
-```text
-             USER QUERY
-                  |
-                  v
-          QUERY UNDERSTANDING
-                  |
-                  v
-           INTENT ANALYSIS
-                  |
-                  v
-           QUERY ROUTING
-                  |
-          +-------+-------+
-          |               |
-          v               v
-      RAG SYSTEM      LLM SYSTEM
-          |               |
-          v               |
-    DOCUMENT SEARCH       |
-          |               |
-          v               |
-    HYBRID RETRIEVAL      |
-          |               |
-          v               |
-       RERANKING           |
-          |               |
-          v               |
-     CONTEXT BUILDING      |
-          |               |
-          +-------+-------+
-                  |
-                  v
-           LLM GENERATION
-                  |
-                  v
-         RESPONSE VALIDATION
-                  |
-                  v
-            FINAL ANSWER
-```
-
-*Conceptual workflow illustrating my areas of AI engineering interest.*
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=221FA04454&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=221FA04454&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=221FA04454&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=221FA04454&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=221FA04454&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=221FA04454&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=221FA04454&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🎯 Currently Learning & Exploring
 
 - Advanced Retrieval-Augmented Generation
-- Agentic AI and Multi-Agent Systems
-- Advanced LLM Application Development
-- Production-Ready AI Architecture
-- Scalable Backend Engineering
-- System Design and Distributed Systems
-- AI Application Deployment and Optimization
+- Agentic AI and multi-agent architectures
+- Advanced LLM application development
+- Production-ready AI architecture
+- Scalable backend engineering
+- System design and distributed systems
+- LLM evaluation and observability
+- AI application security and deployment
 
 ---
 
@@ -203,20 +290,26 @@ My engineering interests include designing AI applications with the following ar
 
 I'm interested in connecting and collaborating with developers, AI engineers, and teams working on:
 
-- Generative AI Applications
-- Agentic AI Systems
-- Enterprise RAG Solutions
-- LLM Engineering
-- Python Backend Development
-- Intelligent Automation
-- Real-World AI Products
-
-**Let's build something intelligent together!**
-
-[LinkedIn](https://www.linkedin.com/in/sumanth-m-439150342/) • [GitHub](https://github.com/221FA04454) • [Email](mailto:sumanthofficial2626@gmail.com)
-
----
+- Generative AI applications
+- Retrieval-Augmented Generation
+- Agentic AI systems
+- Enterprise AI solutions
+- Python backend development
+- Intelligent automation
+- Real-world AI products
 
 <p align="center">
-  <b>Engineering Intelligence. Building Possibilities. 🚀</b>
+  <a href="https://github.com/221FA04454">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumanth-m-439150342/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sumanthofficial2626@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>ENGINEERING INTELLIGENCE. BUILDING POSSIBILITIES. 🚀</b>
 </p>
