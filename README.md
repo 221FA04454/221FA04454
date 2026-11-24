@@ -164,49 +164,6 @@ Projects will be showcased with:
 
 ---
 
-## 🔬 AI Engineering Architecture
-
-```text
-                 USER QUERY
-                     |
-                     v
-             INPUT VALIDATION
-                     |
-                     v
-              INTENT ANALYSIS
-                     |
-                     v
-               QUERY ROUTING
-                     |
-             +-------+-------+
-             |               |
-             v               v
-         RAG SYSTEM       LLM SYSTEM
-             |
-             v
-       DOCUMENT SEARCH
-             |
-             v
-      HYBRID RETRIEVAL
-             |
-             v
-          RERANKING
-             |
-             v
-       CONTEXT PACKING
-             |
-             +-------+
-                     |
-                     v
-              LLM GENERATION
-                     |
-                     v
-           RESPONSE VALIDATION
-                     |
-                     v
-                FINAL ANSWER
-```
-
 <p align="center">
   <i>Conceptual architecture of an intelligent RAG and LLM-powered application.</i>
 </p>
